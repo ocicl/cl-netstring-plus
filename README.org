@@ -2,9 +2,8 @@
 
 CL-NETSTRING+ is a library for working with modified netstrings.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mtstickney/cl-netstring-plus.git   |
-| commit  | 6a86b0a  |
-| systems | cl-netstring-plus |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/mtstickney/cl-netstring-plus.git |
+| commit  | 6a86b0a                                                 |
+| systems | (cl-netstring+)                                         |
+|---------+---------------------------------------------------------|
